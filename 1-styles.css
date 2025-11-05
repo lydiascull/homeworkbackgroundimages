@@ -1,0 +1,20 @@
+html {
+    background-image: url("images/1-big-viburnum.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.wrapper {
+    background-color:rgba(255, 233, 194, 0.5);
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border-left: 5px rgb(0, 0, 0) solid;
+    border-right: 5px rgb(0, 0, 0) solid;
+}
+
+
+
+body {
+    margin: 0;
+}
